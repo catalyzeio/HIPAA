@@ -17,7 +17,7 @@ Vulnerability Scanning | All customer and internal networks are scanned regularl
 Intrusion Detection | All production systems have intrusion detection software running to proactively detect anomalies.
 Backup | All customer data is backed up every 24 hours. Seven (7) days of rolling backups are retained.
 Disaster Recovery | Datica has an audited and regularly tested disaster recovery plan. This plan also applies to customers, and they inherit this from us.
-Documentation | All documentation (policies and procedures that make up our security and compliance program) is stored and versioned using GitHub, and published [here](https://poliyc.datica.com).
+Documentation | All documentation (policies and procedures that make up our security and compliance program) is stored and versioned using GitHub, and published [here](https://policy.datica.com).
 Risk Management | We proactively perform risk assessments to assure changes to our infrastructure do not expose new risks to ePHI. Risks mitigation is done before changes are pushed to production.
 Workforce Training | Despite not having access to the ePHI of our customers, all Datica workforce members undergo HIPAA and security training regularly. Current training is hosted [here](https://training.datica.com/).
 
